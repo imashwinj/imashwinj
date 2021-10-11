@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imashwinj&label=Profile%20views&color=0e75b6&style=flat" alt="imashwinj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imashwinj" alt="imashwinj" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/imashwinj" target="blank"><img src="https://img.shields.io/twitter/follow/imashwinj?logo=twitter&style=for-the-badge" alt="imashwinj" /></a> </p>
 
 - 🔭 I’m currently working as **MERN stack developer in Infosys**
